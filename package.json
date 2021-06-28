@@ -1,0 +1,27 @@
+{
+  "name": "codecheck",
+  "version": "1.0.0",
+  "description": "A sample project on how to add code checking to any js/ts project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-typescript-prettier": "^4.2.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexkenley/codecheck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rexkenley/codecheck/issues"
+  },
+  "homepage": "https://github.com/rexkenley/codecheck#readme"
+}
